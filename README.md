@@ -1,4 +1,4 @@
-W.I.P - React Calendar
+# W.I.P - React Calendar
 
 React Calendar By [Oludotun Longe](https://dotunlonge.com)
 - Built from scratch in react
@@ -6,12 +6,6 @@ React Calendar By [Oludotun Longe](https://dotunlonge.com)
 - Allows you to navigate between months, and years.
 - Tap on date to add reminder
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Jobsity/ReactChallenge/main/src/assets/jobsity_logo_small.png"/>
-</div>
-
-# React Challenge
-- created branch "development".
 
 ## How to deploy
  - Run `npm install` | `yarn install` to install all dependencies.
