@@ -5,6 +5,8 @@ React Calendar By [Oludotun Longe](https://dotunlonge.com)
 - Allows you to add, edit and delete reminders.
 - Allows you to navigate between months, and years.
 - Tap on date to add reminder
+- Add Weather Forecast To Reminders
+- View the first couple of reminders sorted by time on the calendar dates.
 
 
 ## How to deploy
